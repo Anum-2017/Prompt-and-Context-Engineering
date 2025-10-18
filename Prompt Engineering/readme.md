@@ -179,5 +179,3 @@ Explore detailed articles to deepen your understanding of Prompt and Context Eng
 
 1. 🧩 [The Art of Talking to AI – A Beginner’s Guide to Prompt Engineering](https://medium.com/@anumriz2017/the-art-of-talking-to-ai-a-beginners-guide-to-prompt-engineering-79b58a231d8d)  
 2. 💡 [What is Prompt Engineering? – A Detailed Guide](https://medium.com/@anumriz2017/what-is-prompt-engineering-a-detailed-guide-5419c281ae48)  
-3. 🧠 [Understanding Context Engineering – The Hidden Power Behind Smart AI Responses](https://medium.com/@anumriz2017/understanding-context-engineering-the-hidden-power-behind-smart-ai-responses-1ebc56e307de)
-
