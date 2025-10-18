@@ -105,4 +105,4 @@ It helps the AI understand the situation or topic before generating a response.
 
 # Medium Blogs Links : 
 
-1. 🧩 [Fundamental Prompting Techniques & The Art of Prompt Engineering](https://medium.com/@anumriz2017/fundamental-prompting-techniques-the-art-of-prompt-engineering-4c48af0aebe4)  
+📖 [Fundamental Prompting Techniques & The Art of Prompt Engineering](https://medium.com/@anumriz2017/fundamental-prompting-techniques-the-art-of-prompt-engineering-4c48af0aebe4)  
