@@ -6,5 +6,7 @@ On the wall beside her, create a bold black-and-white stylized vector portrait o
 
 Mood & Style: modern, minimalistic, and premium personal-branding aesthetic — sleek composition, sharp contrast, and confident, authentic expression.
 
+---
 
-<img width="736" height="1408" alt="Gemini_Generated_Image_3vizo63vizo63viz" src="https://github.com/user-attachments/assets/6c792956-5d8e-4d9b-994c-371f18101384" />
+<img width="736" height="1408" alt="Prompt_1" src="https://github.com/user-attachments/assets/24368f3d-7d8f-4b2b-8c18-2c8f0654c1d2" />
+
