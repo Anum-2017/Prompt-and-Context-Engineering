@@ -1,4 +1,4 @@
-## Prompt 3:
+## Prompt 3
 
 { "prompt": "create moody black and white portrait of a man, hand resting near mouth, deep gaze into distance, dramatic shadows across his face, expressive wrinkles, soft rembrandt light from the side, cinematic atmosphere, professional portrait photography style, shot on 85mm lens f/1.4, shallow depth of field, high contrast, fine art photography, editorial feel", "style": "cinematic, moody, introspective", "lighting": "soft side lighting, high contrast shadows, natural light imitation", "camera": { "Model": "Leica SL2-S", "lens": "85mm", "aperture": "f/1.4", "depth_of_field": "shallow", "angle": "close-up portrait, slightly off-center framing" }, "mood": "thoughtful, reflective, timeless" }
 or
