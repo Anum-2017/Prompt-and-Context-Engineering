@@ -15,4 +15,5 @@ Mood: thoughtful, reflective, timeless
 
 ### Generated: 
 
-<img width="864" height="1184" alt="Gemini_Generated_Image_vs7fctvs7fctvs7f" src="https://github.com/user-attachments/assets/d0da61b4-abc3-486f-a4de-4aec741b6a9c" />
+<img width="864" height="1184" alt="Prompt_3" src="https://github.com/user-attachments/assets/189274de-517e-4919-a068-45881046f1e1" />
+
